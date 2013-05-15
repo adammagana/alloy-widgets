@@ -1,0 +1,32 @@
+"#container": {
+    backgroundColor: '#000000',
+    borderRadius: 10,
+    height: Ti.UI.SIZE,
+    layout: 'vertical',
+    navBarHidden: true,
+    opacity: 0,
+    width: 180
+},
+    "#title": {
+        color: '#ffffff',
+        font: {
+            fontSize: 18,
+            fontWeight: 'bold'
+        },
+        textAlign: 'center',
+        top: 5,
+        width: 170
+    },
+    "#message": {
+        color: '#ffffff',
+        font: {
+            fontSize: 16
+        },
+        textAlign: 'center',
+        top: 5,
+        width: 170
+    },
+    "#paddingBottom": {
+        height: 8,
+        width: '100%'
+    }

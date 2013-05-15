@@ -1,9 +1,11 @@
 {
-	"global": {}, 
-	"env:development": {}, 
-	"env:test": {}, 
-	"env:production": {}, 
-	"os:ios": {}, 
-	"os:android": {}, 
-	"dependencies": {}
+    "global": {},
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:ios": {},
+    "os:android": {},
+    "dependencies": {
+        "confirmationMessage": "1.0"
+    }
 }

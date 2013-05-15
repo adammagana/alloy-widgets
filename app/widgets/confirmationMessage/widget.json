@@ -1,0 +1,13 @@
+{
+	"id": "confirmationMessage",
+	"name": "Confirmation Message",
+	"description" : "Show your users an opaque confirmation message after they perform an action.",
+	"author": "Adam Magaña",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2013",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"message,confirmation,confirm,success",
+	"platforms":"ios"
+}

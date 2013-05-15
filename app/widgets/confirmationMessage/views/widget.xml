@@ -1,0 +1,7 @@
+<Alloy>
+    <Window id="container">
+        <Label id="title"></Label>
+        <Label id="message"/>
+        <View id="paddingBottom"/>
+    </Window>
+</Alloy>
