@@ -1,0 +1,17 @@
+.DS_Store
+*.pyc
+.fastdev.lock
+*.prefs
+
+build.log
+build
+npm-debug.log
+
+Resources/alloy/*
+Resources/alloy.js
+Resources/android/*
+Resources/blackberry/*
+Resources/iphone/*
+Resources/mobileweb/*
+
+tmp
